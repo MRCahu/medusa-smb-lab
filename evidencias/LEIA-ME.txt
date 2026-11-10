@@ -1,0 +1,3 @@
+Evidências opcionais do laboratório devem ser salvas aqui localmente.
+Antes de compartilhar, oculte credenciais, nomes pessoais, IPs que não sejam do laboratório e qualquer informação sensível.
+Não inclua arquivos de captura ou logs brutos com senhas.

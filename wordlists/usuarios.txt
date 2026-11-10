@@ -1,0 +1,3 @@
+msfadmin
+labuser
+usuario_teste
